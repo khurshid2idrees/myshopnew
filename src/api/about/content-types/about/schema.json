@@ -12,11 +12,11 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "description": {
-      "type": "blocks"
-    },
     "title": {
       "type": "string"
+    },
+    "description": {
+      "type": "blocks"
     }
   }
 }
